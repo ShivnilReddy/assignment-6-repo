@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+textarea, button {
+    margin: 10px;
+    padding: 10px;
+}
+table {
+    margin: 10px;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
