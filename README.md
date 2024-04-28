@@ -9,4 +9,4 @@ Creating this project helped solidify my understanding of JavaScript, particular
 
 ### Deployment
 
-The live version of the website can be found here: [Deployed URL]
+The live version of the website can be found here: [https://shivnilreddy.github.io/assignment-6-repo/]
